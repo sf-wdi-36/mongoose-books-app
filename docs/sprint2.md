@@ -169,7 +169,7 @@ Referencing authors is a good choice here because:
 
         });
       });
-    ```
+  ```
 
 
 1. Run `node seed.js` in your terminal again to re-add the books and add the new authors.
